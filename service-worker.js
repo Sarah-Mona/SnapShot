@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SnapScout/precache-manifest.9403024a03e50a8e95780c31bd5bac10.js"
+  "/SnapScout/precache-manifest.744d156abbb4448611baf67436287826.js"
 );
 
 self.addEventListener('message', (event) => {
