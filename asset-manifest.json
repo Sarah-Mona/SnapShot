@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SnapScout/static/css/main.935d6ac5.chunk.css",
+    "main.js": "/SnapScout/static/js/main.613546b5.chunk.js",
+    "main.js.map": "/SnapScout/static/js/main.613546b5.chunk.js.map",
+    "runtime~main.js": "/SnapScout/static/js/runtime~main.9f8235c8.js",
+    "runtime~main.js.map": "/SnapScout/static/js/runtime~main.9f8235c8.js.map",
+    "static/js/2.0e3004c5.chunk.js": "/SnapScout/static/js/2.0e3004c5.chunk.js",
+    "static/js/2.0e3004c5.chunk.js.map": "/SnapScout/static/js/2.0e3004c5.chunk.js.map",
+    "index.html": "/SnapScout/index.html",
+    "precache-manifest.9403024a03e50a8e95780c31bd5bac10.js": "/SnapScout/precache-manifest.9403024a03e50a8e95780c31bd5bac10.js",
+    "service-worker.js": "/SnapScout/service-worker.js",
+    "static/css/main.935d6ac5.chunk.css.map": "/SnapScout/static/css/main.935d6ac5.chunk.css.map"
+  }
+}
